@@ -5,7 +5,7 @@ categories: ["Property"]
 tags:
 - Property
 description: "Property investment has long been seen as a reliable and successful endeavour, and in the modern, constantly changing financial environment, it is still a good choice for people looking to accumulate money and guarantee their financial future. Beyond monetary profits, purchasing real estate offers investors a number of perks that make it a desirable choice. The key advantages of investing in the housing market will be discussed in this article."
-thumbnail: "/property/Unlocking-Wealth/thumbnail.webp"
+thumbnail: "/property/Unlocking-Wealth/thumbnail.jpg"
 slug: "/property/Unlocking-Wealth/"
 discussionId: "/property/Unlocking-Wealth/"
 featured: true
