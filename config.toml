@@ -1,6 +1,6 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "https://mediaboost.co.nz/"  # Include trailing slash
+baseurl = "https://NZArlo.github.io/"  # Include trailing slash
 title = "Boost News"
 author = "Anthony Teh"
 #canonifyurls = true
