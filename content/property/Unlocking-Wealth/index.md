@@ -38,7 +38,7 @@ Investments in real estate provide a level of stability that other financial opt
 A property full of potential in New Zealand with heaps of room to grow, [1093 Tairua Whitianga Road, Whenuakite](https://mediapa.co.nz/1093-tairua-whitianga-road-a-versatile-48-hectare-farm-located-in-the-picturesque-whenuakite-for-sale/), Coromandel-Thames.
 
 In conclusion, those seeking to increase their wealth and safeguard their financial future continue to find real estate investing to be a desirable option. Whether an investor chooses to invest in residential, commercial, or high-end real estate, property is still a reliable and profitable asset class that offers many advantages to those prepared to take on some risk.
-
+ 
 ### Contact Phillip Quay
 
 **Email:** Phillip@mediapa.co.nz
