@@ -6,7 +6,7 @@ tags:
 - Whitianga
 - Rural
 description: "A Professional Indemnity (PI) insurance policy covers a range of scenarios, including claims of services and advice received from the professional that result in a client with a financial loss. Professionals who can benefit from PI insurance include Personal Trainers, Physio's, OT's, IT Consultants/Specialists, Web designers, Architects, Engineers, Media Consultants, Business Coaches, Mortgage Brokers, Real Estate agents and the list goes on. These individuals or companies possess the necessary qualifications and expertise to offer specialized services in their respective fields, usually at a cost."
-thumbnail: /images/your-go-to-waikato/thumbnail.jpg
+thumbnail: /images/your-go-to-waikato/thumbnail.png
 slug: "/posts/your-go-to-waikato/"
 discussionId: "/posts/your-go-to-waikato/"
 featured: true

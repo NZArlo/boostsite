@@ -6,7 +6,7 @@ tags:
 - Business
 - Advice
 description: "Running a successful business in today's fast-paced and competitive business landscape requires more than just hard work and determination. Businesses must keep up with the latest trends and technologies while also adapting to changing market conditions. With that in mind, here are a few key factors that will help businesses succeed in 2023:"
-thumbnail: "/images/what-makes-a-business-run/thumbnail.jpeg"
+thumbnail: "/images/what-makes-a-business-run/thumbnail.png"
 slug: "/business/what-makes-a-business-run/"
 discussionId: "/business/what-makes-a-business-run/"
 featured: true
