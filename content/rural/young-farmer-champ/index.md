@@ -7,13 +7,13 @@ tags:
 - Farming
 - Pirongia
 description: "Farmer confidence remains deep in negative territory, according to the latest Rabobank Rural Confidence survey."
-thumbnail: "/rural/young-farmer-champ/thumbnail.jpg"
+thumbnail: "/images/young-farmer-champ/thumbnail.jpg"
 slug: "/rural/young-farmer-champ/"
 discussionId: "/rural/young-farmer-champ/"
 featured: true
 toc: true
 ---
-![Emma Poole competing in the head to head challenge on the practical day of the competition.](thumbnail.jpg)
+![Emma Poole competing in the head to head challenge on the practical day of the competition.](/images/young-farmer-champ/thumbnail.jpg)
 
 New Zealand's first female FMG Young Farmer of the Year recipient Emma Poole hopes to be an inspiration for other women in the sector.
 

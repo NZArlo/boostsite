@@ -5,13 +5,13 @@ categories: ["Property"]
 tags:
 - Landlords
 description: "There’s been a 32% increase in searches for ‘multi-unit freehold blocks’ and a 38% increase in searches for rental income."
-thumbnail: "/property/L&G/thumbnail.webp"
+thumbnail: "/images/L&G/thumbnail.webp"
 slug: "/property/L&G/"
 discussionId: "/property/L&G/"
 featured: true
 toc: true
 ---
-![The buy-to-let sector remains resilient, as landlords eye HMOs in search for higher rental income, Legal & General research has found.](thumbnail.webp)
+![The buy-to-let sector remains resilient, as landlords eye HMOs in search for higher rental income, Legal & General research has found.](/images/L&G/thumbnail.webp)
 
 There’s been a 32% increase in searches for ‘multi-unit freehold blocks’ and a 38% increase in searches for rental income.
 

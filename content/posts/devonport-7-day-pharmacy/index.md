@@ -7,9 +7,9 @@ tags:
 - Devonport
 - Business
 description: "Te Whatu Ora has decided to run MAS as a pilot program. They have given funding to Pharmacies near large hospitals to encourage a decrease in out-patients. This means that you can get a consultation and treatment at your local pharmacy from your nurse or from your pharmacist for a range of health conditions."
-thumbnail: "/business/social-media-trends/thumbnail.png"
-slug: "/business/social-media-trends/"
-discussionId: "/business/social-media-trends/"
+thumbnail: "/images/devonport-7-day-pharmacy/thumbnail.png"
+slug: "/posts/devonport-7-day-pharmacy/"
+discussionId: "/posts/devonport-7-day-pharmacy/"
 featured: true
 toc: true
 ---

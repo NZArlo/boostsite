@@ -5,13 +5,13 @@ categories: ["Rural"]
 tags:
 - Rural
 description: "Farmer confidence remains deep in negative territory, according to the latest Rabobank Rural Confidence survey."
-thumbnail: "/rural/confidence-still-in-the-doldrums/thumbnail.jpg"
+thumbnail: "/images/confidence-still-in-the-doldrums/thumbnail.jpg"
 slug: "/rural/confidence-still-in-the-doldrums/"
 discussionId: "/rural/confidence-still-in-the-doldrums/"
 featured: true
 toc: true
 ---
-![The net confidence in this survey rose to -57% from -58% previously.](thumbnail.jpg)
+![The net confidence in this survey rose to -57% from -58% previously.](/images/confidence-still-in-the-doldrums/thumbnail.jpg)
 
 Farmer confidence remains deep in negative territory, according to the latest Rabobank Rural Confidence survey.
 

@@ -5,7 +5,7 @@ categories: ["News"]
 tags:
 - Coromandel
 description: "The Hot Water Beach is a unique natural attraction located on the eastern coast of New Zealand's Coromandel Peninsula. What sets this beach apart is its underground hot springs, which create a fascinating phenomenon. Visitors can dig their own hot pools in the sand during low tide, allowing them to relax and soak in the warm waters."
-thumbnail: /posts/hot-water-beach/thumbnail.jpg
+thumbnail: /images/hot-water-beach/thumbnail.jpg
 slug: "/posts/hot-water-beach/"
 discussionId: "/posts/hot-water-beach/"
 featured: true

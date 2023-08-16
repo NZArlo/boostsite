@@ -6,13 +6,13 @@ tags:
 - Coromandel
 - Thames
 description: "The economies of New Zealand and the United States both heavily rely on the real estate sector. The two nations’ approaches to property, however, differ significantly. Understanding these disparities is essential for both investors and homeowners, from market dynamics to legislation. The following piece will compare and contrast the housing markets in the USA and New Zealand in five main areas, highlighting the differences between both."
-thumbnail: "/property/contrasting-real-estate/thumbnail.png"
+thumbnail: "/images/contrasting-real-estate/thumbnail.png"
 slug: "/property/contrasting-real-estate/"
 discussionId: "/property/contrasting-real-estate/"
 featured: true
 toc: true
 ---
-![UK Correspondent: Peter Minkoff](thumbnail.png)
+![UK Correspondent: Peter Minkoff](/images/contrasting-real-estate/thumbnail.png)
 
 The economies of New Zealand and the United States both heavily rely on the real estate sector. The two nations’ approaches to property, however, differ significantly. Understanding these disparities is essential for both investors and homeowners, from market dynamics to legislation. The following piece will compare and contrast the housing markets in the USA and New Zealand in five main areas, highlighting the differences between both.
 

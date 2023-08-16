@@ -5,13 +5,13 @@ categories: ["Business"]
 tags:
 - Business
 description: "As we move towards the middle of 2023, social media is still developing and playing a big part in our daily lives. Social platforms provide a special opportunity to connect with your audience and foster meaningful connections, whether you are an individual, small business, or major corporation. In this post, we'll examine a few of the social media trends that are expected to take over throughout the year."
-thumbnail: "/business/social-media-trends/thumbnail.jpg"
+thumbnail: "/images/social-media-trends/thumbnail.jpg"
 slug: "/business/social-media-trends/"
 discussionId: "/business/social-media-trends/"
 featured: true
 toc: true
 ---
-![UK Correspondent: Peter Minkoff](thumbnail.png)
+![UK Correspondent: Peter Minkoff](/images/social-media-trends/thumbnail.jpg)
 
 As we move towards the middle of 2023, social media is still developing and playing a big part in our daily lives. Social platforms provide a special opportunity to connect with your audience and foster meaningful connections, whether you are an individual, small business, or major corporation. In this post, we'll examine a few of the social media trends that are expected to take over throughout the year.
 

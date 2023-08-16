@@ -5,13 +5,13 @@ categories: ["Property"]
 tags:
 - Landlords
 description: "Some 30% of landlords plan to sell properties in the next 12 months, data from Landbay has revealed."
-thumbnail: "/property/30%-of-landlords/thumbnail.webp"
+thumbnail: "/images/30%-of-landlords/thumbnail.webp"
 slug: "/property/30%-of-landlords/"
 discussionId: "/property/30%-of-landlords/"
 featured: true
 toc: true
 ---
-![](thumbnail.webp)
+![](/images/30%-of-landlords/thumbnail.webp)
 
 Some 30% of landlords plan to sell properties in the next 12 months, data from Landbay has revealed.
 

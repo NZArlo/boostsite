@@ -4,13 +4,13 @@ date: 2023-07-17
 categories: ["Property"]
 tags:
 description: "A Stevenage development will deliver 800 homes, alongside a local centre, a primary school, country park and public open space."
-thumbnail: "/property/work-begins-on-800-home/thumbnail.webp"
+thumbnail: "/images/work-begins-on-800-home/thumbnail.webp"
 slug: "/property/work-begins-on-800-home/"
 discussionId: "/property/work-begins-on-800-home/"
 featured: true
 toc: true
 ---
-![](thumbnail.webp)
+![](/images/work-begins-on-800-home/thumbnail.webp)
 
 A Stevenage development will deliver 800 homes, alongside a local centre, a primary school, country park and public open space.
 
@@ -28,7 +28,7 @@ Ali Maruf, managing director of Bellway North London, said: “A significant mil
 
 “This first phase will see us not only deliver new homes – which will all have electric vehicle charging points – but also a new local centre with commercial space which could be used to house a convenience store.”
 
-![](builders.jpg)
+![](/images/work-begins-on-800-home/builders.jpg)
 
 Detailed applications for a further 115 homes within phase one and the 93-acre country park are to be considered by the council at a later date.
 

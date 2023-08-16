@@ -5,13 +5,13 @@ categories: ["Property"]
 tags:
 - Evictions
 description: "Landlords should be unable to serve an eviction notice for at least the first year of a tenancy – even if they are selling or occupying a property, according to think tank Fabian Society."
-thumbnail: "/property/think-tank/thumbnail.webp"
+thumbnail: "/images/think-tank/thumbnail.webp"
 slug: "/property/think-tank/"
 discussionId: "/property/think-tank/"
 featured: true
 toc: true
 ---
-![](thumbnail.webp)
+![](/images/think-tank/thumbnail.webp)
 
 Landlords should be unable to serve an eviction notice for at least the first year of a tenancy – even if they are selling or occupying a property, according to think tank Fabian Society.
 

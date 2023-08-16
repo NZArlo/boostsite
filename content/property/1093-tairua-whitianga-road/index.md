@@ -6,13 +6,13 @@ tags:
 - Whitianga
 - Rural
 description: "The property in question is a rural grazing property spanning an area of 48 hectares. It is nestled in the picturesque rural area of Whenuakite, on the Thames Coromandel eastern coast. Previously, it operated as a dairy farm with all the necessary supporting buildings. However, it has more recently been used for cattle pasturing, with the potential for much more."
-thumbnail: "/property/1093-tairua-whitianga-road/thumbnail.png"
+thumbnail: "/images/1093-tairua-whitianga-road/thumbnail.png"
 slug: "/property/1093-tairua-whitianga-road/"
 discussionId: "/property/1093-tairua-whitianga-road/"
 featured: true
 toc: true
 ---
-![FOR SALE 1093 Tairua Whitianga Road, Whenuakite, Whitianga 3591](thumbnail.png)
+![FOR SALE 1093 Tairua Whitianga Road, Whenuakite, Whitianga 3591](/images/1093-tairua-whitianga-road/thumbnail.png)
 
 The property in question is a rural grazing property spanning an area of 48 hectares. It is nestled in the picturesque rural area of Whenuakite, on the Thames Coromandel eastern coast. Previously, it operated as a dairy farm with all the necessary supporting buildings. However, it has more recently been used for cattle pasturing, with the potential for much more.
 
