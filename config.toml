@@ -1,7 +1,7 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
 baseurl = "http://mediaboost.co.nz/"  # Include trailing slash
-title = "Boost News"
+title = "Boost Media"
 author = "Anthony Teh"
 #canonifyurls = true
 paginate = 8
@@ -46,7 +46,7 @@ series = "series"
   notes = "/:slug/"
 
 [params]
-author = "Boost News"
+author = "Boost Media"
 twitter = "@vietanhdev"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
 introDescription = "Your one stop shop for all your latest News, Property and Business!"
