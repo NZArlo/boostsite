@@ -11,7 +11,7 @@ discussionId: "/posts/whenuakite-school/"
 featured: true
 toc: true
 ---
-![](thumbnail.jpg)
+![](/images/whenuakite-school/thumbnail.jpg)
 
 Whenuakite School is a small, rural school located in the Coromandel Peninsula of New Zealand. Despite its size, the school provides a nurturing and enriching environment for children from Year 1 to Year 8.
 

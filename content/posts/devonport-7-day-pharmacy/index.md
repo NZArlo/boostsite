@@ -13,7 +13,7 @@ discussionId: "/posts/devonport-7-day-pharmacy/"
 featured: true
 toc: true
 ---
-![](thumbnail.png)
+![](/images/devonport-7-day-pharmacy/thumbnail.png)
 
 ## What is the Minor ailment scheme? (M.A.S)
 

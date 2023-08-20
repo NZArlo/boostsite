@@ -11,7 +11,7 @@ discussionId: "/posts/hot-water-beach/"
 featured: true
 toc: true
 ---
-![Hot Water Beach: Dig Your Own Spa with Beach Views](thumbnail.jpg)
+![Hot Water Beach: Dig Your Own Spa with Beach Views](/images/hot-water-beach/thumbnail.jpg)
 
 The Hot Water Beach is a unique natural attraction located on the eastern coast of New Zealand's Coromandel Peninsula. What sets this beach apart is its underground hot springs, which create a fascinating phenomenon. Visitors can dig their own hot pools in the sand during low tide, allowing them to relax and soak in the warm waters.
 

@@ -13,7 +13,7 @@ discussionId: "/posts/ai-&-seo/"
 featured: true
 toc: true
 ---
-![UK Correspondent: Peter Minkoff](thumbnail.png)
+![UK Correspondent: Peter Minkoff](/images/ai-&-seo/thumbnail.png)
 
 Search engine optimisation (SEO) has grown in importance as a component of online marketing strategies in the current digital era. Artificial intelligence (AI), a potent tool that has multiple effects on SEO, has emerged in the ever-evolving technological scene. The way search engines rank websites, interpret user intent, and deliver pertinent search results has been completely transformed by AI algorithms. We will examine the relationship between AI and SEO in this article and look into how AI affects the optimisation process.
 

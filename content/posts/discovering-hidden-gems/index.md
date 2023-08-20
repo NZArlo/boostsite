@@ -13,7 +13,7 @@ discussionId: "/posts/discovering-hidden-gems/"
 featured: true
 toc: true
 ---
-![UK Correspondent: Peter Minkoff](thumbnail.jpg)
+![UK Correspondent: Peter Minkoff](/images/discovering-hidden-gems/thumbnail.jpg)
 
 Traveling is an amazing way to enjoy stunning scenery, discover new cultures, and forge lifelong memories. When there are so many incredible destinations to see, it might be challenging to concentrate on your travel wish list. These must-see locations throughout the world will grab your senses and leave you wanting more, whether you’re an explorer, a history buff, or just looking for a relaxed holiday.
 
