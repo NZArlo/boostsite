@@ -24,21 +24,21 @@
   weight = 30
 
 [[main]]
-  name = "Links"
-  url = "/links/"
-  identifier = "Links"
+  name = "Directory"
+  url = "/directory/"
+  identifier = "Directory"
   weight = 45
 
 [[main]]
   name = "Business Connect"
   url = "https://nzbusinessconnect.co.nz/"
-  parent = "Links"
+  parent = "Directory"
   weight = 10
 
 [[main]]
   name = "MediaPA"
   url = "https://mediapa.co.nz/"
-  parent = "Links"
+  parent = "Directory"
   weight = 20
 
 [[main]]
@@ -50,19 +50,19 @@
 [[main]]
   name = "Boost Business"
   url = "https://www.facebook.com/BoostProfessionalServices"
-  parent = "Links"
+  parent = "Directory"
   weight = 40
 
 [[main]]
   name = "Boost Travel"
   url = "https://www.facebook.com/BoostTravel"
-  parent = "Links"
+  parent = "Directory"
   weight = 50
 
 [[main]]
   name = "Boost Sustainability"
   url = "https://www.facebook.com/BoostSustainability"
-  parent = "Links"
+  parent = "Directory"
   weight = 60
 
 [[main]]
