@@ -1,5 +1,5 @@
 +++
 aliases = ["posts", "articles", "blog", "showcase", "docs"]
-title = "Rural"
+title = "Rural sponsored by Hamilton City Council"
 author = "vietanhdev"
 +++
